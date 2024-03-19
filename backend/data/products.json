@@ -1,0 +1,411 @@
+[{
+  "name": "OPPO F21s Pro 5G",
+  "price": 245.67,
+  "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/1.jpg"
+    },
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+  "price": 150.32,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Flipkart",
+  "stock": 9
+},
+{
+  "name": "Dell Inspiron 3511 Laptop",
+  "price": 440.57,
+  "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+  "ratings": 2,
+  "images": [
+    {
+      "image": "/images/products/3.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "Lenovo IdeaPad Slim 3 Laptop",
+  "price": 250.45,
+  "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/6.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "ASUS VivoBook 15 Laptop",
+  "price": 767.32,
+  "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/7.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+  "price": 15.46,
+  "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/4.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "Campus Men's Maxico Running Shoes",
+  "price": 10.12,
+  "description": "The high raised back cover with extra padding.",
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/products/5.jpg"
+    }
+  ],
+  "category": "Sports",
+  "seller": "Ebay",
+  "stock": 6
+},
+{
+  "name": "OPPO A59 5G",
+  "price": 220.23,
+  "description": "OPPO A59 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/8.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Ebay",
+  "stock": 6
+},
+{
+  "name": "Redmi Note 13 5G ",
+  "price": 210.23,
+  "description": "Redmi Note 13 5G  is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/9.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 3
+},
+{
+  "name": "Redmi 13C 5G",
+  "price": 110.23,
+  "description": "Redmi 13C 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/10.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Flipkart",
+  "stock": 5
+},
+{
+  "name": "Redmi 12 5G ",
+  "price": 250.23,
+  "description": "Redmi 12 5G  is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/11.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "Samsung Galaxy S24 Plus 5G",
+  "price": 310.23,
+  "description": "Samsung Galaxy S24 Plus 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/12.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "Samsung Galaxy S23 FE 5G",
+  "price": 300.23,
+  "description": "Samsung Galaxy S23 FE 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/13.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 7
+},
+{
+  "name": "Apple iPhone 13 ",
+  "price": 400.23,
+  "description": "Apple iPhone 13 is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/14.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Apple store",
+  "stock": 7
+},
+{
+  "name": "Apple iPhone 14 ",
+  "price": 410.23,
+  "description": "Apple iPhone 14 is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.7,
+  "images": [
+    {
+      "image": "/images/products/15.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Apple store",
+  "stock": 4
+},
+{
+  "name": "Apple iPhone 15 ",
+  "price": 450.23,
+  "description": "Apple iPhone 15 is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.9,
+  "images": [
+    {
+      "image": "/images/products/16.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Apple store",
+  "stock": 4
+},
+{
+  "name": "Armani Exchange Analog Black Dial Men's Watch-AX1343 ",
+  "price": 45.23,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 4.9,
+  "images": [
+    {
+      "image": "/images/products/17.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Ebay",
+  "stock": 5
+},
+{
+  "name": "Casio Unisex 36.8 x 33.2 x 8.2mm Vintage COLLECTIONA ",
+  "price": 50.23,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/18.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "Tommy Hilfiger Analog Blue Dial Men's Watch ",
+  "price": 55.23,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/19.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 9
+},
+{
+  "name": "Tommy Hilfiger Bank Analog White Dial Men's Watch ",
+  "price": 55.23,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/20.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 9
+},
+{
+  "name": "BOSS Hugo First Analog Men's Watch ",
+  "price": 43.23,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 4.2,
+  "images": [
+    {
+      "image": "/images/products/21.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Flipkart",
+  "stock": 12
+},
+{
+  "name": "Alexandre Christie AC 6610 MCL Chronograph Watch for Men",
+  "price": 49.23,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/22.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 23
+},
+{
+  "name": "Dell 15 Laptop",
+  "price": 230.23,
+  "description": "Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi Device Security 15-month subscription",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/23.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Amazon",
+  "stock": 6
+},
+{
+  "name": "HP Chromebook",
+  "price": 240.23,
+  "description": "Processor: Intel Celeron N4120 (1.1 GHz base frequency(2b),up to 2.8 GHz burst frequency(2c), 4 MB L2 cache, 2 cores) | Memory & Storage: 4 GB LPDDR4-2400 MHz RAM (onboard) |64 GB eMMC, 100 GB Google Cloud storage (1 year)",
+  "ratings": 4.2,
+  "images": [
+    {
+      "image": "/images/products/24.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "HP Laptop 15s",
+  "price": 249.23,
+  "description": "【6-core 12th Gen Intel Core i3-1215U】 8 threads and 10MB L3 cache deliver high performance and instant responsiveness. The Intel UHD graphics help you dive into crisp, stunning visuals.",
+  "ratings": 4.7,
+  "images": [
+    {
+      "image": "/images/products/25.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Amazon",
+  "stock": 3
+},
+{
+  "name": "Chuwi HeroBook Pro 14.1",
+  "price": 259.23,
+  "description": "【Work Smart and Efficiently】CHUWI HeroBook Pro notebook computer with 8GB RAM, and 256 GB SSD storage, make multiple applications execute seamlessly. Up to 128GB TF card expansion (not included) and a separate M.2 SSD expansion(Up to 1TB). ",
+  "ratings": 4.1,
+  "images": [
+    {
+      "image": "/images/products/26.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "pTron InTunes Ultima in-Ear Wireless Earphones with Mic",
+  "price": 99.23,
+  "description": "Hi-Fi Stereo Wireless Neckband with Mega Bass | All-day-long Playback Time | 10mm Dynamic drivers ensure Immersive Audio experience | In-line remote for an Easy Handsfree experience.",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/26.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Flipkart",
+  "stock": 8
+},
+{
+  "name": "boAt Rockerz 255 Pro+ Bluetooth in Ear Neckband",
+  "price": 79.23,
+  "description": "Playback- Leave all charging worries at bay as the Rockerz 255 Pro+ comes with a humongous battery back up of 60 Hours",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/27.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Flipkart",
+  "stock": 7
+},
+{
+  "name": "Samsung Galaxy Wireless Buds Fe",
+  "price": 110.23,
+  "description": "SUPERIOR SOUND - Indulge in rich sound of Galaxy Buds FE with deep, powerful bass from the new 1-way speaker, no matter what you're listening to.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/28.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Flipkart",
+  "stock": 4
+}
+
+]
